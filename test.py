@@ -1,0 +1,1 @@
+print("GRC AUTOMATION READY!")
